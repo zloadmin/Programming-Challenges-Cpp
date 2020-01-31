@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Name_Generator"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/vladimir/Projects/Programming-Challenges-Cpp/Name Generator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/vladimir/Projects/Programming-Challenges-Cpp/Name\ Generator/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/vladimir/Projects/Programming-Challenges-Cpp/Name\ Generator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/vladimir/Projects/Programming-Challenges-Cpp/Name\ Generator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/vladimir/Projects/Programming-Challenges-Cpp/Name\ Generator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/vladimir/Projects/Programming-Challenges-Cpp/Name Generator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/vladimir/Projects/Programming-Challenges-Cpp/Name\ Generator/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/vladimir/Projects/Programming-Challenges-Cpp/Name\ Generator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/vladimir/Projects/Programming-Challenges-Cpp/Name\ Generator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/vladimir/Projects/Programming-Challenges-Cpp/Name\ Generator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/vladimir/Projects/Programming-Challenges-Cpp/Name Generator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/vladimir/Projects/Programming-Challenges-Cpp/Name\ Generator/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/vladimir/Projects/Programming-Challenges-Cpp/Name\ Generator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/vladimir/Projects/Programming-Challenges-Cpp/Name\ Generator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/vladimir/Projects/Programming-Challenges-Cpp/Name\ Generator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Name_Generator">
+				<Option output="/Users/vladimir/Projects/Programming-Challenges-Cpp/Name Generator/cmake-build-debug/Name_Generator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/vladimir/Projects/Programming-Challenges-Cpp/Name Generator/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/vladimir/Projects/Programming-Challenges-Cpp/Name\ Generator/cmake-build-debug/Makefile&quot;  VERBOSE=1 Name_Generator"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/vladimir/Projects/Programming-Challenges-Cpp/Name\ Generator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/vladimir/Projects/Programming-Challenges-Cpp/Name\ Generator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/vladimir/Projects/Programming-Challenges-Cpp/Name\ Generator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Name_Generator/fast">
+				<Option output="/Users/vladimir/Projects/Programming-Challenges-Cpp/Name Generator/cmake-build-debug/Name_Generator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/vladimir/Projects/Programming-Challenges-Cpp/Name Generator/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/vladimir/Projects/Programming-Challenges-Cpp/Name\ Generator/cmake-build-debug/Makefile&quot;  VERBOSE=1 Name_Generator/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/vladimir/Projects/Programming-Challenges-Cpp/Name\ Generator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/vladimir/Projects/Programming-Challenges-Cpp/Name\ Generator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/vladimir/Projects/Programming-Challenges-Cpp/Name\ Generator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/vladimir/Projects/Programming-Challenges-Cpp/Name Generator/main.cpp">
+			<Option target="Name_Generator"/>
+		</Unit>
+		<Unit filename="/Users/vladimir/Projects/Programming-Challenges-Cpp/Name Generator/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
