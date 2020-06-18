@@ -1,16 +1,16 @@
 # Programming Challenges C++
 
-0 - Name Generator  
+<!--0 - Name Generator  -->
 1 - Higher/Lower Head/Tails   
-2 - Age is Seconds  
-3 - Temperature Converter  
+<!--2 - Age is Seconds  -->
+<!--3 - Temperature Converter  -->
 4 - Encrypt / Decrypt Algorithm  
 5 - Fizz Buzz  
 6 - Rock/ Paper / Scissors  
 7 - Hangman  
 8 - Love Calculator  
 9 - Pseudorandom Sentence Generator  
-10 - Password Generator  
+<!--10 - Password Generator  -->
 11 - Atomically Correct Time from Internet Clock  
 12 - Haiku Generator  
 13 - Magic Eight Ball  
